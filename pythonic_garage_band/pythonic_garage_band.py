@@ -80,12 +80,12 @@ class Band(Musician):
 
 
 if __name__ == "__main__":
- G1=Guitarist('maram')
+ G1=Guitarist('Brian May')
  print(G1.play_solo())
  print(G1.name)
 
 print("*************")
-D1=Drummer('khaled')
+D1=Drummer('John Bonham')
 print(D1.name)
 
 
